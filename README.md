@@ -1,6 +1,4 @@
-Certainly! Here's a sample README file for your "Plant Disease Detection" project using Python, CNN, OpenCV, Keras, NumPy, and Streamlit:
 
----
 
 # Plant Disease Detection
 
